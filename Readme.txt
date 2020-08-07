@@ -9,10 +9,11 @@ First of all create database (mysql)
 As database setup is ready, open Library_management-1 folder in terminal
 and type " nodemon app.js ".If every thing is Ok upto this then
 This message appears in terminal 
-" server is listening port 3000 
+" server is listening port 5000 
   Database is connected "
 
-Now type "http://localhost:3000/" in browser .
+
+Now type "http://localhost:5000/" in your browser .
 home page is login page
 if student enters his name and password which is stored in database
 then he will enter into his dashboard which shows all book available and its copies
