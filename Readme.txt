@@ -13,7 +13,7 @@ This message appears in terminal
   Database is connected "
 
 
-Now type "http://localhost:5000/" in your browser .
+Now type "http://localhost:5000/" in browser .
 home page is login page
 if student enters his name and password which is stored in database
 then he will enter into his dashboard which shows all book available and its copies
